@@ -4,6 +4,7 @@
 	specializes = base_body_armor_cloth;
 	[common]
 	{
+		is_pcontent_allowed = false;
 		screen_name = "Aunt Luna's Dress";
 	}
 	[defend]
